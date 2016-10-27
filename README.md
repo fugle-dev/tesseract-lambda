@@ -2,7 +2,7 @@
 Tesseract library works on AWS Lambda.
 
 ## Usage
-Zip this repository and upload to AWS Lambda.
+Zip this repository and upload it to AWS Lambda.
 
 ### Note
 This repository does NOT include tessdata files.
